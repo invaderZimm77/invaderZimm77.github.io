@@ -6,7 +6,7 @@ function App() {
     <div className="">
       <h1>Terra Claycamp</h1>
 
-      <h3>Projects</h3>
+      <h3>Past Projects</h3>
       <a href="https://github.com/invaderZimm77/Project_01-gkyWeather">
         Geeky Weather
       </a>

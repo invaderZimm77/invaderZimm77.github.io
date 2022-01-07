@@ -7,3 +7,14 @@
 	justify-content: space-evenly;
 
 }
+
+.smIcons{
+	background-color: #7c7c7c;
+	width: 100px;
+	border-radius: 5px;
+	margin: 10px;
+}
+
+.smIcons :hover{
+	cursor: pointer;
+}
