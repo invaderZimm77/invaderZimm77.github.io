@@ -40,7 +40,7 @@ function App() {
         code as creating a piece of artwork to give the user an accessible and
         pleasurable experience.
       </p>
-      <h3>Contact</h3>s
+      <h3>Contact</h3>
       <FootBox />
     </div>
   );

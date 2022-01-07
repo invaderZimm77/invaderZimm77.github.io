@@ -12,4 +12,19 @@ body {
 
 p {
   width: 600px;
+  font-size: small;
+}
+
+a:link, a:visited {
+  color: (internal value);
+  text-decoration: underline;
+  cursor: auto;
+}
+
+a:link:active, a:visited:active {
+  color: (internal value);
+}
+
+h3 {
+  color: chartreuse;
 }
