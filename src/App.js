@@ -28,7 +28,7 @@ function App() {
         As a Front End Developer with a background in art I face challenges with
         creativity and empathy. From working as a product specialist at a
         medical dispensary to becoming a coffee master at Starbucks, to
-        interning at a c Studio, and now as a Software Engineer I pride myself
+        interning at a motion capture studio, and now as a Software Engineer I pride myself
         in becoming an expert in my field and constantly learning to evolve with
         the industry while bringing unique artistic solutions to new problems. I
         lead with empathy in everything I create holding in my mind the person
