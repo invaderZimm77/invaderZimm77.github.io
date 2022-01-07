@@ -1,9 +1,11 @@
 import './App.css';
+import FootBox from './footBox';
 
 function App() {
   return (
     <div className="">
       <h1>Terra Claycamp</h1>
+  
       <h3>Projects</h3>
       <a href="https://github.com/invaderZimm77/Project_01-gkyWeather">
         Geeky Weather
@@ -15,7 +17,10 @@ function App() {
       <br />
       <a href="https://github.com/invaderZimm77/Little_Butler">Lil Butler</a>
       <h3>Current Projects Workings</h3>
-      <p>I have picked up a 3D printer, so I'm working at setting up a RaspberryPi so I can manage my machine wirelessly </p>
+      <p>
+        With a 3D printer in tow, I'm working at setting up a RaspberryPi so I
+        can manage my machine wirelessly{" "}
+      </p>
       <h3>About Me</h3>
       <p>
         As a Front End Developer with a background in art I face challenges with
@@ -33,7 +38,8 @@ function App() {
         at building code as creating a piece of artwork to give the user an
         accessible and pleasurable experience.
       </p>
-      <a href="https://github.com/invaderZimm77">Github</a>
+
+      <FootBox/>
     </div>
   );
 }
