@@ -1,8 +1,9 @@
-.Foot-Box{
+.foot-box{
 	margin-bottom: 50px;
+	max-width: 500px;
 	color: chartreuse;
 	display: flex;
-	flex-direction: column;
+	/* flex-direction: column; */
 	align-items: baseline;
 	justify-content: space-evenly;
 

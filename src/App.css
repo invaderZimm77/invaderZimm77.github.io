@@ -12,7 +12,9 @@ body {
 
 p {
   width: 600px;
-  font-size: small;
+  font-size: large;
+  background-color: slategrey;
+  border-radius: 10px;
 }
 
 a:link, a:visited {

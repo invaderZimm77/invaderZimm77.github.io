@@ -3,7 +3,7 @@ import './foot.css'
 
 export default function FootBox() {
 	return (
-    <div className="Foot-Box">
+    <div className="foot-box">
       <a href="mailto:tbclaycamp@gmail.com">tbclaycamp@gmail.com</a>
 
       <a className="smIcons" href="https://github.com/invaderZimm77">
