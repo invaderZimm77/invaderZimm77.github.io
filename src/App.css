@@ -12,14 +12,18 @@ body {
 
 p {
   width: 600px;
+  padding: 3px;
   font-size: large;
   background-color: slategrey;
+  border-style: solid;
+  border-color: lightslategrey;
+  border-width: 2px;
   border-radius: 10px;
 }
 
 a:link, a:visited {
   color: (internal value);
-  text-decoration: underline;
+  text-decoration: none;
   cursor: auto;
 }
 
