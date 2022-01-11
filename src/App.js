@@ -6,7 +6,7 @@ function App() {
     <div className="">
       <h1>Terra Claycamp</h1>
 
-      <h3>Past Projects</h3>
+      <h3>Projects</h3>
       <a href="https://github.com/invaderZimm77/Project_01-gkyWeather">
         Geeky Weather
       </a>
@@ -16,12 +16,6 @@ function App() {
       </a>
       <br />
       <a href="https://github.com/invaderZimm77/Little_Butler">Lil Butler</a>
-
-      <h3>Current Projects & Workings</h3>
-      <p>
-        With a 3D printer in tow, I'm working at setting up a RaspberryPi so I
-        can manage my machine wirelessly.
-      </p>
 
       <h3>About Me</h3>
       <p>
