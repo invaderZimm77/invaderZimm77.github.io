@@ -12,6 +12,9 @@ export default function FootBox() {
       <a className="smIcons" href="https://www.linkedin.com/in/terraclaycamp/">
         <img src="/hd-linkedinlogo.png" className="smIcons" />
       </a>
+      <a href='/TBClaycampRes.pdf'>
+        Resume
+      </a>
     </div>
   );
 }
