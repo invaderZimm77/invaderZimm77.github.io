@@ -1,0 +1,12 @@
+.project-description {
+	width: 300px;
+  padding: 3px;
+  font-size: large;
+  background-color: slategrey;
+  border-style: solid;
+  border-color: lightslategrey;
+  border-width: 2px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+}
