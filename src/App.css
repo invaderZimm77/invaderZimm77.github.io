@@ -7,19 +7,24 @@ body {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: antiquewhite;
+  color: white;
 }
 
 a:link, a:visited {
-  color: (internal value);
+  color: (rebeccapurple);
   text-decoration: none;
   cursor:pointer;
 }
 
 a:link:active, a:visited:active {
-  color: (internal value);
+  color: (rebeccapurple);
 }
 
 h3 {
   color: chartreuse;
+}
+
+.nav-bar{
+  display: flex;
+  justify-content: space-evenly;
 }
