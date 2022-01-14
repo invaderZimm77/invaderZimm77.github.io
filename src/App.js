@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="">
       <h1>Terra Claycamp</h1>
-
+      <nav>NAV BAR</nav>
       <h3>Projects</h3>
       <GeekyWeatherPCard/>
       <SShinePCard/>

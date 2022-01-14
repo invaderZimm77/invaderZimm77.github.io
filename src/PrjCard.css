@@ -1,14 +1,16 @@
 .project-card {
-  max-width: 500px;
-  border-style: inset;
+  max-width: 600px;
+  border-style: outset;
   border-color: maroon;
   border-radius: 10px;
-  display: flex;
-  flex-direction: row;
-  /* justify-content: center; */
+
 }
+
+.project-title{
+	color:palegreen;
+}
+
 .project-description {
-  width: 350px;
   padding: 3px;
   font-size: large;
   background-color: slategrey;
