@@ -7,15 +7,15 @@
 	/* flex-direction: column; */
 	align-items: baseline;
 	justify-content: space-evenly;
-/* border-style: dashed;  */
 }
 
 .smIcons{
+	margin: 10px 10px 10px 10px;
 	background-color: #7c7c7c;
 	height: 100px;
 	border-radius: 5px;
-	margin: 10px 10px 10px 10px;
-	/* border-style: solid; */
+	
+
 }
 
 .smIcons :hover{

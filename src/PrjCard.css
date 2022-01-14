@@ -1,5 +1,14 @@
+.project-card {
+  max-width: 500px;
+  border-style: inset;
+  border-color: maroon;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+}
 .project-description {
-	width: 300px;
+  width: 350px;
   padding: 3px;
   font-size: large;
   background-color: slategrey;
@@ -7,6 +16,9 @@
   border-color: lightslategrey;
   border-width: 2px;
   border-radius: 10px;
-  display: flex;
-  justify-content: center;
+}
+
+.project-links {
+  margin: 1px 1px 1px 1px;
+  font-size: medium;
 }
