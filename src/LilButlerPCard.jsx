@@ -3,9 +3,12 @@ export default function LilButlerPCard() {
   return (
     <div className="project-card">
       <h4 className="project-title">Lil Butler</h4>
+      <div className="lil-butler-thumbnail-container">
+        <img src="/LilButlerThumb.png" className="lil-butler-thumbnail" />
+      </div>
       <div className="project-description">
-        Little Buttler Is an assitent for Personal Assistants LLC.* . Track the
-        little things about the clients like their likes/dislikes, prefrences.
+        Lil Butler Is an assistant for Personal Assistants LLC.* . Track the
+        little things about the clients like their likes/dislikes, preferences.
         Then the other employees will be able to read those notes. A message
         board of sorts if you will.
       </div>

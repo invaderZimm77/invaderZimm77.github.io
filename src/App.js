@@ -16,7 +16,6 @@ function App() {
 
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="#home">Terra Claycamp</Navbar.Brand>
           <Nav className="nav-bar">
             <Nav.Link href="#about_me">About Me</Nav.Link>
             <Nav.Link href="#projects">Projects</Nav.Link>
