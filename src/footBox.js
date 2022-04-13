@@ -8,7 +8,7 @@ export default function FootBox() {
         <a href="mailto:tbclaycamp@gmail.com" className="smIcons">
           tbclaycamp@gmail.com
         </a>
-        <a href="/TBClaycampRes.pdf">Resume</a>
+        <a href="/TBClaycampRES.pdf">Resume</a>
       </div>
       <a className="smIcons" href="https://github.com/invaderZimm77">
         <img
