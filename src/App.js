@@ -20,6 +20,7 @@ function App() {
             <Nav.Link href="#about_me">About Me</Nav.Link>
             <Nav.Link href="#projects">Projects</Nav.Link>
             <Nav.Link href="#contact">Contact</Nav.Link>
+            <Nav.Link href="/TBClaycampRES.pdf">Resume</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
@@ -30,8 +31,8 @@ function App() {
       <h3 id="projects">Projects</h3>
       <GeekyWeatherPCard />
       <SShinePCard />
-      <LilButlerPCard/>
-      
+      <LilButlerPCard />
+
       <h3 id="contact">Contact</h3>
       <FootBox />
     </div>

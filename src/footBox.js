@@ -1,14 +1,13 @@
-import React from 'react'
-import './foot.css'
+import React from "react";
+import "./foot.css";
 
 export default function FootBox() {
-	return (
+  return (
     <div className="foot-box">
-      <div>
-        <a href="mailto:tbclaycamp@gmail.com" className="smIcons">
+      <div className="email-link">
+        <a href="mailto:tbclaycamp@gmail.com">
           tbclaycamp@gmail.com
         </a>
-        <a href="/TBClaycampRES.pdf">Resume</a>
       </div>
       <a className="smIcons" href="https://github.com/invaderZimm77">
         <img

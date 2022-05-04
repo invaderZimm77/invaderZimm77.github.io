@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #7c7c7c;
+  background-color: #ddede6;
   min-height: 100vh;
   display: flex;
   flex-direction: row;
@@ -20,8 +20,12 @@ a:link:active, a:visited:active {
   color: (rebeccapurple);
 }
 
+h1 {
+  color: darkolivegreen;
+}
+
 h3 {
-  color: chartreuse;
+  color:rgb(117, 152, 0);
 }
 
 .nav-bar{
