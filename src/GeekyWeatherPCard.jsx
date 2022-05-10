@@ -5,7 +5,11 @@ export default function GeekyWeatherPCard() {
     <div className="project-card">
       <h4 className="project-title">Geeky Weather</h4>
       <div className="gkyWeather-thumbnail-container">
-        <img src="/gkyWeatherThumb.png" className="lil-butler-thumbnail" />
+        <img
+          src="/gkyWeatherThumb.png"
+          alt="Image Missing"
+          className="pCard-thumbnail"
+        />
       </div>
       <div className="project-description">
         Geeky weather is an app that takes a city location input and gives a

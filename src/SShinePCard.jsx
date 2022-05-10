@@ -8,7 +8,8 @@ export default function SShinePCard() {
       <div className="SShine-thumbnail-container">
         <img
           src="/SSmoothiesWireframeThumb.png"
-          className="lil-butler-thumbnail"
+          alt="Image Missing. These Smoothies I've been drunk"
+          className="pCard-thumbnail"
         />
       </div>
       <div className="project-description">

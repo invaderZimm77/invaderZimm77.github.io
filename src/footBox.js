@@ -5,9 +5,7 @@ export default function FootBox() {
   return (
     <div className="foot-box">
       <div className="email-link">
-        <a href="mailto:tbclaycamp@gmail.com">
-          tbclaycamp@gmail.com
-        </a>
+        <a href="mailto:tbclaycamp@gmail.com">tbclaycamp@gmail.com</a>
       </div>
       <a className="smIcons" href="https://github.com/invaderZimm77">
         <img
@@ -17,7 +15,11 @@ export default function FootBox() {
         />
       </a>
       <a className="smIcons" href="https://www.linkedin.com/in/terraclaycamp/">
-        <img src="/hd-linkedinlogo.png" className="smIcons-img" />
+        <img
+          src="/hd-linkedinlogo.png"
+          alt="LinkedIn"
+          className="smIcons-img"
+        />
       </a>
     </div>
   );
