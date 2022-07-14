@@ -6,10 +6,15 @@
 
 }
 
-.project-title{
+.project-title, .project-title-re {
 	color:#470000;
+  margin-top: auto;
+  margin-bottom:8px;
 }
 
+.project-title-re{
+  margin-top: 20px;
+}
 .project-description {
   padding: 5px;
   font-size: large;
