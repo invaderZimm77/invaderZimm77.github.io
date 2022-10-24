@@ -4,7 +4,7 @@ export default function LilButlerPCard() {
     <div className="project-card">
       <h4 className="project-title">Lil Butler</h4>
       <div className="lil-butler-thumbnail-container">
-        <img
+        <image
           src="/LilButlerThumb.png"
           alt="Image Missing."
           className="pCard-thumbnail"

@@ -5,7 +5,7 @@ export default function GeekyWeatherPCard() {
     <div className="project-card">
       <h4 className="project-title">Geeky Weather</h4>
       <div className="gkyWeather-thumbnail-container">
-        <img
+        <image
           src="/gkyWeatherThumb.png"
           alt="Image Missing"
           className="pCard-thumbnail"
