@@ -6,9 +6,9 @@ export default function SShinePCard() {
     <div className="project-card">
       <h4 className="project-title">Sunshine Smoothies</h4>
       <div className="SShine-thumbnail-container">
-        <image
-          src="./public/SSmoothiesWireframeThumb.png"
-          alt="Image Missing. These Smoothies I've been drunk"
+        <img
+          src="/SSmoothiesWireframeThumb.png"
+          alt="Sunshine Smoothies app thumbnail missing."
           className="pCard-thumbnail"
         />
       </div>

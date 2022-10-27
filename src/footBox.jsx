@@ -9,7 +9,7 @@ export default function FootBox() {
       </div>
       <div className="SocNet">
         <a className="smIcons" href="https://github.com/invaderZimm77">
-          <image
+          <img
             src="/Octocat.png"
             alt="Github Icon Missing"
             className="smIcons-img"
@@ -17,7 +17,7 @@ export default function FootBox() {
         </a>
         <a className="smIcons"
           href="https://www.linkedin.com/in/terraclaycamp/">
-          <image
+          <img
             src="/hd-linkedinlogo.png"
             alt="LinkedIn"
             className="smIcons-img"
