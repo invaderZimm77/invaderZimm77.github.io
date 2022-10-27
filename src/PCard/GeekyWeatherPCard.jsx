@@ -8,7 +8,7 @@ export default function GeekyWeatherPCard() {
         <img
           src="/gkyWeatherThumb.png"
           alt="Geeky Weather App Thumbnail missing"
-          className="pCard-thumbnail"
+          className="pCard-thumbnail-gkyWeather"
         />
       </div>
       <div className="project-description">

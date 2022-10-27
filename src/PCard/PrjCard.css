@@ -3,7 +3,10 @@
   border-style: outset;
   border-color: maroon;
   border-radius: 10px;
-
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  
 }
 
 .project-title, .project-title-re {
@@ -23,6 +26,8 @@
   border-color: lightslategrey;
   border-width: 2px;
   border-radius: 10px;
+  display: flex;
+  text-align: center;
 }
 
 .project-links {
@@ -32,5 +37,11 @@
 
 .pCard-thumbnail {
   height: 200px;
+  width: fit-content;
   border-radius: 10px;
+}
+.pCard-thumbnail-gkyWeather {
+  height: 200px;
+  border-radius: 10px;
+
 }

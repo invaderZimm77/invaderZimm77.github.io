@@ -1,13 +1,20 @@
 body {
+  margin:3px 3px 3px 3px;
   text-align: center;
   background-color: #ddede6;
   min-height: 100vh;
-  display: flex;
+  min-width: 200px;
+  display: flexbox;
+  /* display: flex;
   flex-direction: row;
-  align-items: center;
-  justify-content: center;
+  justify-content: center; */
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+a {
+  margin: 5px;
+  text-align: center;
 }
 
 a:link, a:visited {
@@ -22,10 +29,12 @@ a:link:active, a:visited:active {
 
 h1 {
   color: darkolivegreen;
+  text-align: center;
 }
 
 h3 {
   color:rgb(49, 64, 0);
+  text-align: center;
 }
 
 .nav-bar{
@@ -33,6 +42,3 @@ h3 {
   justify-content: space-evenly;
 }
 
-a{
-  margin: 5px;
-}

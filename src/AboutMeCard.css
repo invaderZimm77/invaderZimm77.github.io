@@ -1,5 +1,6 @@
 .about-me-card {
-  width: 600px;
+  max-width: 600px;
+  min-width: 275px;
   padding: 3px;
   font-size: large;
   background-color: rgb(81, 94, 107);;
@@ -8,5 +9,7 @@
   border-width: 2px;
   border-radius: 10px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  text-align: center;
 }
