@@ -1,8 +1,8 @@
 import "./App.css";
 import FootBox from "./footBox";
-import GeekyWeatherPCard from "./GeekyWeatherPCard";
-import SShinePCard from "./SShinePCard";
-import LilButlerPCard from "./LilButlerPCard";
+import GeekyWeatherPCard from "./PCard/GeekyWeatherPCard";
+import SShinePCard from "./PCard/SShinePCard";
+import LilButlerPCard from "./PCard/LilButlerPCard";
 import AboutMeCard from "./AboutMeCard";
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Navbar";
