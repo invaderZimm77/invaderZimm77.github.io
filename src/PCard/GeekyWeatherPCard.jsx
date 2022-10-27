@@ -7,7 +7,7 @@ export default function GeekyWeatherPCard() {
       <div className="gkyWeather-thumbnail-container">
         <img
           src="/gkyWeatherThumb.png"
-          alt="Image Missing"
+          alt="Geeky Weather App Thumbnail missing"
           className="pCard-thumbnail"
         />
       </div>
@@ -30,7 +30,7 @@ export default function GeekyWeatherPCard() {
       <div className="project-description">
         With this take of Geeky Weather, I have rebuilt the app with a more
         modern approach using React.js. With more plans yet to be implemented, I
-        wanted to show the evolution of my work and how I can take the new thins
+        wanted to show the evolution of my work and how I can take the new things
         I've learned and improve upon my body of work.
       </div>
       <div className="project-links">
