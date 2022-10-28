@@ -1,4 +1,5 @@
 .about-me-card {
+  width: auto;
   max-width: 600px;
   min-width: 275px;
   padding: 3px;

@@ -1,13 +1,13 @@
 .foot-box{
 	padding: 5px 5px 5px 5px;
 	margin-bottom: 50px;
-	max-width: 500px;
+	max-width: 600px;
 	color: chartreuse;
 	align-content: center;
 	/* display: flex;
-	flex-direction: column;
+	flex-direction: column;*/
 	align-items: baseline;
-	justify-content: space-evenly; */
+	justify-content: space-evenly; 
 }
 
 .smIcons{
