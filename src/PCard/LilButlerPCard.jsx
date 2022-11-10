@@ -6,13 +6,13 @@ export default function LilButlerPCard() {
       <div className="lil-butler-thumbnail-container">
         <img
           src="/LilButlerThumb.png"
-          alt="App Thumbnail Missing"
+          alt="Lil Butler Thumbnail Missing"
           className="pCard-thumbnail"
         />
       </div>
       <div className="project-description">
         Lil Butler, the result of a five day hackathon, Is an assistant for Personal
-        Assistants LLC.* . A concept project Track the little things about
+        Assistants LLC.* . A concept project to Track the little things about
         the clients like their likes/dislikes, preferences. Then the other
         employees will be able to read those notes. A message board of sorts if
         you will.
