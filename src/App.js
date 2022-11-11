@@ -25,14 +25,13 @@ function App() {
         </Container>
       </Navbar>
 
-      <h3 id="about_me">About Me</h3>
-      <AboutMeCard />
-
       <h3 id="projects">Projects</h3>
       <GeekyWeatherPCard />
       <SShinePCard />
       <LilButlerPCard />
 
+      <h3 id="about_me">About Me</h3>
+      <AboutMeCard />
       <h3 id="contact">Contact</h3>
       <FootBox />
     </div>

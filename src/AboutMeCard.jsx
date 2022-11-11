@@ -7,8 +7,9 @@ export default function AboutMeCard() {
       continuing to hone my skills to improve user experiences. I take a
       creative approach to learning and value authentic interactions. As a
       career changer, I bring a lot of experience from many walks of life I've
-      lived. From Being a knowledge leader as a coffee master to working in the
-      production of a major video game.
+      lived from being a knowledge leader as a coffee master to working on a
+      team developing bleeding edge motion capture technology. 
+      In my next step I look forward to see where coding takes me; working with great people making a contribution to a team, the world?
     </div>
   );
 }
