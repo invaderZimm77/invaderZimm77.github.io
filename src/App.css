@@ -32,6 +32,7 @@ h1 {
 h3 {
   color:rgb(49, 64, 0);
   text-align: center;
+  margin-bottom: 5px;
 }
 
 .nav-bar{
@@ -39,3 +40,6 @@ h3 {
   justify-content: space-evenly;
 }
 
+.contact{
+  margin-bottom: 5px;
+}

@@ -33,7 +33,7 @@ function App() {
 
       <h3 id="about_me">About Me</h3>
       <AboutMeCard />
-      <h3 id="contact">Contact</h3>
+      <h3  className="contact" id="contact">Contact</h3>
       <FootBox />
     </div>
   );
