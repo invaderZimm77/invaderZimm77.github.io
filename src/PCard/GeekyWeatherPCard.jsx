@@ -29,9 +29,12 @@ export default function GeekyWeatherPCard() {
       <h4 className="project-title-re">Re Geeky Weather</h4>
       <div className="project-description">
         With this take of Geeky Weather, I have rebuilt the app with a more
-        modern approach using React.js. With more plans yet to be implemented, I
-        wanted to show the evolution of my work and how I can take the new things
-        I've learned and improve upon my body of work.
+        modern approach using React.js.
+      </div>
+      <div className="project-links">
+        <a href="https://github.com/invaderZimm77/ReGeekyWeather">
+          ReGeeky Weather - GitHub
+        </a>
       </div>
       <div className="project-links">
         <a href="https://invaderzimm77.github.io/ReGeekyWeather/">

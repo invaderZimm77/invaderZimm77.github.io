@@ -7,12 +7,13 @@ import AboutMeCard from "./AboutMeCard";
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Navbar";
 import {Nav} from "react-bootstrap";
+import { NavLink } from "react-router-dom";
 
 
 function App() {
   return (
     <div className="">
-      <h1>Terra Claycamp</h1>
+      <h1 id="top">Terra Claycamp</h1>
 
       <Navbar bg="dark" variant="dark">
         <Container>
@@ -32,7 +33,7 @@ function App() {
 
       <h3 id="about_me">About Me</h3>
       <AboutMeCard />
-      <h3 id="contact">Contact</h3>
+      <h3  className="contact" id="contact">Contact</h3>
       <FootBox />
     </div>
   );
